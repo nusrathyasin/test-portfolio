@@ -1,0 +1,65 @@
+body {
+    color: #747704;
+    
+}
+
+h1 {
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 62px;
+    font-weight: 200;
+}
+
+
+h3 {
+   text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+
+a {
+    color: #747704;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #BCBBBB;
+}
+
+
+.med-color {
+   color: #BCBBBB; 
+}
+
+.border-btm {
+    border-bottom: 4px solid;
+    width: 100%;
+}
+
+.title-btm {
+    margin: 0px;
+    font-size: 21px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.row {
+margin-top: 35px;
+    }
+
+#feat {
+    font-family: 'Righteous', cursive;
+    text-indent: 15px;
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: bold;
+}
+
+#logo {
+    margin-left: 5px;
+    margin-bottom: 30px;
+    height: 130px;
+    
+}
+
+
